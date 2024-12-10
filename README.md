@@ -22,7 +22,8 @@
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabricio-favio-polanco-pezo-746048262/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@fabetops) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-favio-polanco-pezo-746048262/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fabetops) 
 ---
 [![](https://visitcount.itsvg.in/api?id=fabriciopolanco&icon=5&color=11)](https://visitcount.itsvg.in)
 
